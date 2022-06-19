@@ -4,8 +4,6 @@
 Uso de API RESTful y Bootstrap.
 
 🤩 Desplegado en [GithubPages].
-👀 Puedes visualizar el repositorio [aquí].
- 
 
 #### Made by @JhennyferZarate
 🌻💛
