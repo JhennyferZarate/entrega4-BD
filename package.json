@@ -1,0 +1,29 @@
+{
+  "name": "entrega4-bd",
+  "version": "1.0.0",
+  "description": "Cuarta entrega del curso Desarrollo Backend de Coderhouse",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhennyferZarate/entrega4-BD.git"
+  },
+  "keywords": [
+    "nodejs",
+    "router",
+    "bootstrap"
+  ],
+  "author": "JhennyferZarate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JhennyferZarate/entrega4-BD/issues"
+  },
+  "homepage": "https://github.com/JhennyferZarate/entrega4-BD#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "router": "^1.3.7"
+  }
+}
